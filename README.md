@@ -1,2 +1,4 @@
 # BurningMan-Site
-First expirience HTML5 + CSS3
+First experience in site layout. 
+
+html5 + css3
